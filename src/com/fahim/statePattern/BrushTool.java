@@ -1,6 +1,6 @@
-package com.fahim.statePattern;
+package com.fahim.statepattern;
 
-public class BrushTool implements Tool{
+public class BrushTool implements Tool {
     @Override
     public void mouseDown() {
         System.out.println("Brush Icon");

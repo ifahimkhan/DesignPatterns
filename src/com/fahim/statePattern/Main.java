@@ -1,9 +1,4 @@
-package com.fahim;
-
-import com.fahim.statePattern.BrushTool;
-import com.fahim.statePattern.Canvas;
-import com.fahim.statePattern.EraserTool;
-import com.fahim.statePattern.SelectionTool;
+package com.fahim.statepattern;
 
 public class Main {
 
