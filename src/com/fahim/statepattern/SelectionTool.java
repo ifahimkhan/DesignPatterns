@@ -1,14 +1,13 @@
-package com.fahim.statepattern;
+package com.fahim.statePattern;
 
-public class SelectionTool implements  Tool{
+public class SelectionTool implements Tool{
     @Override
     public void mouseDown() {
-        System.out.println("Selection icon");
+        System.out.println("Selection Icon");
     }
 
     @Override
     public void mouseUp() {
-        System.out.println("draw a dash rectangle");
-
+        System.out.println("Draaw a dahs rectangle");
     }
 }

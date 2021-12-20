@@ -1,7 +1,7 @@
-package com.fahim.statepattern;
+package com.fahim.statePattern;
 
 public class Canvas {
-    private Tool currentTool;
+    Tool currentTool;
 
     public Tool getCurrentTool() {
         return currentTool;
