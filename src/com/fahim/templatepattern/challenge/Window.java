@@ -1,4 +1,4 @@
-package com.fahim.strategypattern.templatepattern.challenge;
+package com.fahim.templatepattern.challenge;
 
 public class Window {
     public void close() {

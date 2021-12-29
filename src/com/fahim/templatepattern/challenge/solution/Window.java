@@ -1,4 +1,4 @@
-package com.fahim.strategypattern.templatepattern.challenge.solution;
+package com.fahim.templatepattern.challenge.solution;
 
 public abstract class Window {
     public void close() {

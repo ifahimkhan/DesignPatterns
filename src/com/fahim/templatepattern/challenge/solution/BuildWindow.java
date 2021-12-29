@@ -1,4 +1,4 @@
-package com.fahim.strategypattern.templatepattern.challenge.solution;
+package com.fahim.templatepattern.challenge.solution;
 
 public class BuildWindow extends Window {
 

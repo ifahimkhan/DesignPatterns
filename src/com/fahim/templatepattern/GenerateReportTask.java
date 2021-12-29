@@ -1,4 +1,4 @@
-package com.fahim.strategypattern.templatepattern;
+package com.fahim.templatepattern;
 
 public class GenerateReportTask extends Task {
 
